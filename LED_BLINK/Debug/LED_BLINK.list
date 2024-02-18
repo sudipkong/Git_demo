@@ -390,8 +390,8 @@ int main(void)
  80004e4:	f44f 4100 	mov.w	r1, #32768	; 0x8000
  80004e8:	4803      	ldr	r0, [pc, #12]	; (80004f8 <main+0x24>)
  80004ea:	f000 fc50 	bl	8000d8e <HAL_GPIO_TogglePin>
-        HAL_Delay(500);
- 80004ee:	f44f 70fa 	mov.w	r0, #500	; 0x1f4
+        HAL_Delay(1500); // long led timeout
+ 80004ee:	f240 50dc 	movw	r0, #1500	; 0x5dc
  80004f2:	f000 f9a5 	bl	8000840 <HAL_Delay>
         HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
  80004f6:	e7f5      	b.n	80004e4 <main+0x10>
