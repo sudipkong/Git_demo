@@ -95,7 +95,7 @@ int main(void)
   {
     /* USER CODE END WHILE */
         HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
-        HAL_Delay(1500); // long led timeout
+        HAL_Delay(100); // long led timeout
 
     /* USER CODE BEGIN 3 */
   }
