@@ -1,1 +1,38 @@
 2024-02-19 00:33:46,126 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-02-19 00:34:02,080 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-02-19 00:34:21,270 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-02-19 00:34:39,157 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 806984320 Bytes (1073741824)
+2024-02-19 00:34:41,179 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 836836184 Bytes (1073741824)
+2024-02-19 00:34:42,683 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 905519960 Bytes (1073741824)
+2024-02-19 00:34:42,970 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-02-19 00:34:42,970 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-02-19 00:34:42,970 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-02-19 00:34:42,970 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-02-19 00:34:42,970 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-02-19 00:34:42,972 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-02-19 00:34:43,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\MXTmpFiles\license.tmp_save
+2024-02-19 00:34:43,324 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\MXTmpFiles\license.tmp
+2024-02-19 00:34:43,409 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\MXTmpFiles\gpio.tmp_save
+2024-02-19 00:34:43,533 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\MXTmpFiles\gpio.tmp
+2024-02-19 00:34:43,701 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Src\stm32f4xx_it.c_save
+2024-02-19 00:34:43,861 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Src\stm32f4xx_it.c
+2024-02-19 00:34:43,889 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Inc\stm32f4xx_it.h_save
+2024-02-19 00:34:43,969 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Inc\stm32f4xx_it.h
+2024-02-19 00:34:44,013 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Src\stm32f4xx_hal_msp.c_save
+2024-02-19 00:34:44,249 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Src\stm32f4xx_hal_msp.c
+2024-02-19 00:34:44,271 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\MXTmpFiles\system.tmp_save
+2024-02-19 00:34:44,352 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\MXTmpFiles\system.tmp
+2024-02-19 00:34:44,399 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-02-19 00:34:44,512 [INFO] CodeEngine:335 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Inc\stm32f4xx_hal_conf.h
+2024-02-19 00:34:44,578 [WARN] IPConfigManager:3440 - IP not found : TIM
+2024-02-19 00:34:44,580 [WARN] CodeGenerator:3939 - IP not found : null
+2024-02-19 00:34:44,619 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Inc\main.h_save
+2024-02-19 00:34:44,735 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Inc\main.h
+2024-02-19 00:34:44,767 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Src\main.c_save
+2024-02-19 00:34:44,908 [INFO] CodeEngine:279 - Generated code: C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\LED_BLINK\Core\Src\main.c
+2024-02-19 00:34:45,651 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 380mS.
+2024-02-19 00:34:45,657 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-02-19 00:34:45,971 [INFO] ConfigFileManager:1495 - The Die is : DIE431
+2024-02-19 00:34:47,951 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2294mS.
+2024-02-19 00:34:47,952 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-02-19 00:34:47,956 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
