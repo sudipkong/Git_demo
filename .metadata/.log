@@ -1,0 +1,18 @@
+!SESSION 2024-02-18 22:28:12.808 -----------------------------------------------
+eclipse.buildId=Version 1.14.0
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-02-18 22:28:18.070
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-02-18 22:28:18.082
+!MESSAGE Log4j2 initialized with config file C:\Users\sud2l\OneDrive\Electronics\STM32CubeIDE\Git_tutorial\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-02-18 22:28:20.635
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-02-18 22:29:25.099
+!MESSAGE Indexed 'LED_BLINK' (36 sources, 100 headers) in 4.26 sec: 7,755 declarations; 50,629 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0034%)
